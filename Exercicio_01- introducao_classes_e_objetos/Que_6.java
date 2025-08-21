@@ -1,3 +1,1 @@
-public class Que_6 {
-
-}
+// Aluno: Marcelo Augusto de Barros Araújo.
