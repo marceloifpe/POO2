@@ -59,4 +59,4 @@ public class ContactList {
 
 // Solução: Você pega uma agenda nova e maior para expandir. O laço for é fundamental para garantir que você copie cada endereço da agenda antiga para a nova. Você não está construindo novos ddd's, só está transferindo os endereços.
 
-// Consequência: Se você não copiasse os endereços, você jogaria a agenda antiga fora. Como ela era a única que sabia a localização dos ddd's, o Coletor de Lixo do Java faz a varredura dos dd's e destroi para liberar memória.
+// Consequência: Se você não copiasse os endereços, você jogaria a agenda antiga fora. Como ela era a única que sabia a localização dos ddd's, o Coletor de Lixo do Java faz a varredura dos ddd's e destroi para liberar memória.
