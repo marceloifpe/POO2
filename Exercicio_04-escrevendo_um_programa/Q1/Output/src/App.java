@@ -1,3 +1,6 @@
+// Exercício: qual seria o resultado quando o programa for
+// executado?
+
 class Output {
     public static void main(String[] args) {
         Output output = new Output();
