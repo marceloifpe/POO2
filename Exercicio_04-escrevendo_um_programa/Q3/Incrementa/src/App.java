@@ -1,3 +1,7 @@
+// Exercício: faça a correspondência entre o bloco de código
+// candidato (à esquerda) e a saída que você veria se o bloco fosse
+// inserido (à direita).
+
 public class App {
     public static void main(String[] args) throws Exception {
         int x = 0;
