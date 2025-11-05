@@ -1,7 +1,15 @@
 | Concrete                                             | Sample class   |   Abstract
 |------------------------------------------------------|----------------|-----------------------
-|                                                      |                |
-|                                                      |                |
-|                                                      |                |
-|                                                      |                |
-|                                                      |                |
+|golf course simulation                                |Tree            |tree nursery application
+|game simulation life                                  |House           |architect application
+|satellite photo application                           |Town            |Game creation application
+|game simulation footbal                               |Footbal Player  |coaching application
+|office application                                    |Chair           |Furniture design application
+|Online store checkout system                          |Customer        |banking application
+|E-commerce system                                     |Sales Order     |logistics application
+|Library Catalog System                                |Book            |publisher application
+|Personal Loan System Franchise                        |Store           |loan application for retirees
+|Accounts receivable system                            |Supplier        |application that verifies the payer's origin
+|Golf shop inventory                                   |Golf Club       |type of golf club material
+|Auto parts inventory system                           |Carburetor      |engine displacement application
+|Smart home control app                                |Oven            |an application that categorizes smart devices
