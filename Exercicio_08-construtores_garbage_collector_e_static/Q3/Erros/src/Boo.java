@@ -14,5 +14,5 @@ public class Boo {
 A correção do construtor 3 seria colocar um super no abri e fecha chaves com os parâmetros corretos da classe pai,
 já no construtor 4 a solução é implementar na classe Boo construtor que aceite parâmetros duas como Strings para corrigir o erro da classe SonOfBoo.
 No construtor 6 a correção seria fazer a chamada correta na passagem de parâmteros, só precisaria inverter os parâmetros na chamada para
-fazer a ligação com o construtor da classe Boo que é pai.
+fazer a ligação com o construtor da classe Boo que é pai ou fazer a alteração de ordem de parâmetros direto no construtor da classe pai boo.
 */
