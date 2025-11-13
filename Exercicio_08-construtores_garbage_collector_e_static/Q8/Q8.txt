@@ -1,0 +1,19 @@
+1. Para usar a classe Math, o primeiro passo é criar uma instância dela. (F)
+
+2. Você pode marcar um construtor com a palavra-chave static. (F)
+
+3. Métodos estáticos não têm acesso ao estado de variáveis de instância do objeto "this". (V)
+
+4. É uma boa prática chamar um método estático usando uma variável de referência. (F)
+
+5. Variáveis estáticas podem ser usadas para contar as instâncias de uma classe. (V)
+
+6. Construtores são chamados antes que as variáveis estáticas sejam inicializadas. (F)
+
+7. MAX_SIZE seria um bom nome para uma variável estática final. (V)
+
+8. Um bloco inicializador estático é executado antes que o construtor de uma classe seja executado. (V)
+
+9. Se uma classe for marcada como final, todos os seus métodos também devem ser marcados como final. (F)
+
+10. Um método final pode ser sobrescrito apenas se sua classe for estendida. (F)
