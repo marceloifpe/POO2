@@ -1,0 +1,33 @@
+1. Um bloco try deve ser seguido por um catch e um bloco finally. (F)
+
+2. Se você escrever um método que possa causar uma exceção verificada pelo compilador (compiler-checked exception), você deve envolver esse código arriscado em um bloco try/catch. (F)
+
+3. Blocos catch podem ser polimórficos. (V)
+
+4. Apenas exceções "verificadas pelo compilador" podem ser capturadas. (F)
+
+5. Se você definir um bloco try/catch, um bloco finally correspondente é opcional. (V)
+
+6. Se você definir um bloco try, você pode combiná-lo com um catch correspondente, ou finally, ou ambos. (V)
+
+7. Se você escrever um método que declara que pode lançar uma exceção verificada, você também deve envolver o código que lança a exceção em um bloco try/catch. (F)
+
+8. O método main() em seu programa deve tratar todas as exceções não tratadas lançadas para ele. (F)
+
+9. Um único bloco try pode ter muitos blocos catch diferentes. (V)
+
+10. Um método pode lançar apenas um tipo de exceção. (F)
+
+11. Um bloco finally será executado independentemente de uma exceção ser lançada ou não. (V)
+
+12. Um bloco finally pode existir sem um bloco try. (F)
+
+13. Um bloco try pode existir sozinho, sem um bloco catch ou um bloco finally. (F)
+
+14. Tratar (handling) uma exceção às vezes é chamado de "ducking" (se esquivar). (F)
+
+15. A ordem dos blocos catch nunca importa. (F)
+
+16. Um método com um bloco try e um bloco finally pode opcionalmente declarar uma exceção verificada. (F)
+
+17. Exceções de tempo de execução (Runtime exceptions) devem ser tratadas ou declaradas. (F)
